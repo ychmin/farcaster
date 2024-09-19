@@ -24,6 +24,11 @@ export const metadata: Metadata = {
     , 'og:title': 'MyFrame' // 제목 추가
     , 'og:description': 'Farcaster-chi 프로젝트 페이지입니다.' // 설명 추가
     , 'og:video': '' // 영상이 있다면 추가 가능 (iframe 대신)
+    , 'og:image:secure_url': 'http://rcsi.co.kr/wp-content/uploads/2023/06/gabriella-clare-marino-4amU3xpy0I-unsplash-scaled.jpg'
+    , 'og:image:type': 'image/jpeg'
+    , 'og:image:width': '400'
+    , 'og:image:height': '400'
+    , 'og:image:alt': 'A shiny red apple with a bite taken out'
 
   }
 }
