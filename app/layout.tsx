@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     , 'og:url': 'https://farcaster-chi.vercel.app/' // URL 메타 태그 추가
     , 'og:title': 'MyFrame' // 제목 추가
     , 'og:description': 'Farcaster-chi 프로젝트 페이지입니다.' // 설명 추가
-    , 'og:video': 'https://your-site.com/embed-video.mp4' // 영상이 있다면 추가 가능 (iframe 대신)
+    , 'og:video': '' // 영상이 있다면 추가 가능 (iframe 대신)
 
   }
 }
