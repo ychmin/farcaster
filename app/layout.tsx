@@ -19,6 +19,12 @@ export const metadata: Metadata = {
     , 'fc:frame:input:text': 'Enter a message'
     , 'fc:frame:image:aspect_ratio': '1:1'
     , 'fc:frame:state': '{"status":"active","user":"12345"}' 
+    , 'og:type': 'website'  // Open Graph type 추가
+    , 'og:url': 'https://farcaster-chi.vercel.app/' // URL 메타 태그 추가
+    , 'og:title': 'MyFrame' // 제목 추가
+    , 'og:description': 'Farcaster-chi 프로젝트 페이지입니다.' // 설명 추가
+    , 'og:video': 'https://your-site.com/embed-video.mp4' // 영상이 있다면 추가 가능 (iframe 대신)
+
   }
 }
 
